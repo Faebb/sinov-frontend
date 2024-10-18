@@ -1,6 +1,6 @@
 ## Acerca de SinovAPI
 
-SinovAPI es una API backend desarrollada en **[Laravel](https://nextjs.org/)** para el proyecto SaaS Sinov. Sinov es una solución diseñada para empresas de seguridad privada, facilitando la gestión de procesos y la administración de novedades, ofreciendo un panel de analítica.
+sinov-frontend es un proyecto frontend desarrollado en **[Next JS](https://nextjs.org/)** para el proyecto SaaS Sinov. Sinov es una solución diseñada para empresas de seguridad privada, facilitando la gestión de procesos y la administración de novedades, ofreciendo un panel de analítica.
 
 Construida en **Next JS 14**:
 
